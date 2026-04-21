@@ -58,6 +58,7 @@ L’objectif final est de retrouver le secret attendu par l’application.
 ## Partie 3 — Analyse de la classe CodeCheck
 
 ### Code observé
+![checkcode](images/checkcode.png)
 
 
 
@@ -113,6 +114,7 @@ Java_sg_vantagepoint_uncrackable2_CodeCheck_bar
 ```
 
 ### Code observé
+![secret](images/secret.png)
 
 
 ### Analyse
@@ -152,6 +154,8 @@ Thanks for all the fish
 
 * Saisie de la chaîne dans l’application
 * Message de succès affiché
+
+  ![verification](images/verification.png)
 
 ---
 
