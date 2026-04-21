@@ -24,6 +24,8 @@ L’objectif final est de retrouver le secret attendu par l’application.
 * Lancement de l’application
 * Test de plusieurs entrées (test, 1234, hello…)
 
+  ![test](images/test.png)
+
 ### Résultat
 
 * L’application affiche un message d’erreur pour toute mauvaise entrée
